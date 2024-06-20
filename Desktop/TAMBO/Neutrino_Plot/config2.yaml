@@ -1,0 +1,4 @@
+name: WhitePaper_300k/test/WhitePaper_300k/sim_test_62419_1
+creator: CORSIKA8
+version: 8.0.0-prealpha
+args: "/n/holylfs05/LABS/arguelles_delgado_lab/Lab/common_software/source/corsika8/corsika-work/corsika --pdg -211 --energy 134431.50919983155 --zenith 99.99732787664736 --azimuth 203.76835088101396 --xpos 5.82690291372798 --ypos 2.651239329640523 --zpos -0.7696777502523529 -f WhitePaper_300k/test/WhitePaper_300k/sim_test_62419_1 --xdir 0.4521739852453368 --ydir -0.3661629880519191 --zdir 0.8133039734614851 -O 2.9925255158436626 --force-interaction --x-intercept -1.9042410053751477 --y-intercept -0.7535013903260498 --z-intercept 0.7194652218340803 --emcut 1 --mucut 1 --hadcut 1 "
